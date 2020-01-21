@@ -12,4 +12,6 @@
 
 #### I have used dark green, light green and blue in [polygon.sld](https://github.com/Dhanus3133/GeoServer-SLD-Stylesheets/blob/master/SLD's/polygon.sld) [polygon.png](https://github.com/Dhanus3133/GeoServer-SLD-Stylesheets/blob/master/PNG's/polygon.png)
 
-#### I have used red, green, yellow, red and brown [https://github.com/Dhanus3133/GeoServer-SLD-Stylesheets/blob/master/SLD's/raster.sld](https://github.com/Dhanus3133/GeoServer-SLD-Stylesheets/blob/master/PNG's/raster.png)
+## Raster
+
+#### I have used red, green, yellow, red and brown [raster.sld](https://github.com/Dhanus3133/GeoServer-SLD-Stylesheets/blob/master/SLD's/raster.sld)[raster.png](https://github.com/Dhanus3133/GeoServer-SLD-Stylesheets/blob/master/PNG's/raster.png)
